@@ -1,1 +1,6 @@
 My own C++ linked list. Special thanks to Dr. Turner @ UMFlint!
+
+Usage:
+
+for ( list.setstart() ; list.getvalue(x) ; list.next())
+    x+=1;
